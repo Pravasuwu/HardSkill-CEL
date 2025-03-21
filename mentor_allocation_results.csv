@@ -1,0 +1,7 @@
+startup_id,startup_name,mentor_id,mentor_name,score
+1,AlphaTech,1,John Doe,75
+1,AlphaTech,2,Jane Smith,60
+2,BetaFinance,3,Emily Brown,75
+2,BetaFinance,1,John Doe,50
+3,GammaHealth,2,Jane Smith,65
+3,GammaHealth,1,John Doe,40
